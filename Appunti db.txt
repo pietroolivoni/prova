@@ -1,0 +1,3 @@
+L'engine definisce come deve avvenire la creazione dei file delle tabelle.
+InnoDB è stato progettato per gestire l'accesso simultaneo a dati condivisi e l'integrità referenziale.
+Charset definisce il set di caratteri con la corrispondente codifica.
